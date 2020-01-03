@@ -6,6 +6,7 @@ public class test1 {
 		int a=1;
 		int cc=33;
                 int bb=22;
+		int zz=66;
 		String b="abc";
 		System.out.println(b);
 
