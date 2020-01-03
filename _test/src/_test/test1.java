@@ -9,7 +9,7 @@ public class test1 {
 		int zz=66;
 		String b="abc";
 		System.out.println(b);
-
+		System.out.println(zz);
 		System.out.println(a);
 
 	}
